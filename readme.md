@@ -1,7 +1,7 @@
 # Weather Station
 
 This is a DIY low power, low cost at home weather station.
-My plans with this is to learn, experiment and expand my knowledge in different areas. I am by no means an expert and I am merely doing this for fun.
+My plans with this are to learn, experiment and expand my knowledge in different areas. I am by no means an expert and I am merely doing this for fun.
 
 
 ## Parts List
